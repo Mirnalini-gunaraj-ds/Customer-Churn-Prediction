@@ -1,4 +1,4 @@
-Predictve Analysis of Customer Retention/Churn
+**Predictve Analysis of Customer Retention/Churn**
 
 Business Problem: This study will assess their dataset and discuss how to construct a model in order to anticipate the bank's future clients who are interested in acquiring a product. The goal is to boost earnings and stop overpaying.
 
