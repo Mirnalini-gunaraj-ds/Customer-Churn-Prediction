@@ -1,5 +1,7 @@
 **Predictve Analysis of Customer Retention/Churn**
 
+<img src="https://github.com/Mirnalini-gunaraj-ds/Grow_Model_Customer_Retention/blob/main/Prj1image.PNG">
+
 Business Problem: This study will assess their dataset and discuss how to construct a model in order to anticipate the bank's future clients who are interested in acquiring a product. The goal is to boost earnings and stop overpaying.
 
 Problem Synopsis Create a categorization model based on consumer personal data, marketing campaign data, and economic background characteristics to forecast prospective customers who could be interested in signing up for a term deposit.
